@@ -87,31 +87,8 @@
         "Tomate",
         "Cheddar"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
-    },
-    {
-      "nome": "James",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Tomate",
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    },
-    {
-      "nome": "Everaldo",
-      "carne": "Veggie burger",
-      "pao": "Integral",
-      "opcionais": [
-        "Bacon",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 3
     },
     {
       "nome": "Carmem",
@@ -120,7 +97,7 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 4
     }
   ]
